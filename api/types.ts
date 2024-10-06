@@ -10,7 +10,7 @@ export interface Data {
 
 export interface Desktop {
   ua: string;
-  type: Type;
+  type: DeviceInfo;
   browser: Browser;
   os: OS;
   device: Device;
@@ -22,14 +22,7 @@ export interface Browser {
   version: string;
 }
 
-export enum BrowserName {
-  Android = "Android",
-  Chrome = "Chrome",
-  ChromeMobile = "Chrome Mobile",
-  Firefox = "Firefox",
-  FirefoxMobile = "Firefox Mobile",
-  Ie = "IE",
-}
+export type BrowserName = "Android" | "Chrome" | "Chrome Mobile" | "Firefox" | "Firefox Mobile" | "IE";
 
 export interface Device {
   name: string;
@@ -38,19 +31,14 @@ export interface Device {
 }
 
 export interface OS {
-  name: PurpleName;
+  name: OSName;
   version_major: number | null | string;
   version: null | string;
 }
 
-export enum PurpleName {
-  Linux = "Linux",
-  MACOSX = "Mac os X",
-  Ubuntu = "Ubuntu",
-  Windows = "Windows",
-}
+export type OSName = "Linux" | "Mac os X" | "Ubuntu" | "Windows";
 
-export interface Type {
+export interface DeviceInfo {
   mobile: boolean;
   tablet: boolean;
   touch_capable: boolean;
@@ -60,7 +48,7 @@ export interface Type {
 
 export interface Mobile {
   ua: string;
-  type: Type;
+  type: DeviceInfo;
   browser: Browser;
   os: Browser;
   device: Device;
