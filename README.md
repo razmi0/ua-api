@@ -16,7 +16,7 @@ type UserAgent {
   browser: Browser;
   device: Device;
   os: Browser;
-  type: Type;
+  info: Info;
   ua: string;
 }
 
@@ -32,7 +32,7 @@ type Device {
   name: string;
 }
 
-type DeviceInfo {
+type Info {
   bot: boolean;
   mobile: boolean;
   pc: boolean;
