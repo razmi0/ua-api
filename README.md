@@ -12,7 +12,7 @@ npm run start
 ## Response body data types
 
 ```typescript
-interface UserAgent {
+type UserAgent {
   browser: Browser;
   device: Device;
   os: Browser;
@@ -20,19 +20,19 @@ interface UserAgent {
   ua: string;
 }
 
-interface Browser {
+type Browser {
   name: string;
   version: null | string;
   version_major: number | null;
 }
 
-interface Device {
+type Device {
   brand: null | string;
   model: null | string;
   name: string;
 }
 
-interface Type {
+type Type {
   bot: boolean;
   mobile: boolean;
   pc: boolean;
