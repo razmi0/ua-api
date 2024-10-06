@@ -1,0 +1,1585 @@
+{
+  "data": {
+    "desktop": [
+      {
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac os X 10_8_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2925.68 Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome",
+          "version_major": 56,
+          "version": "56.0.2925"
+        },
+        "os": {
+          "name": "Mac os X",
+          "version_major": 10,
+          "version": "10.8.3"
+        },
+        "device": {
+          "name": "Mac",
+          "brand": "Apple",
+          "model": "Mac"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac os X 10.11; rv:51.0) Gecko/20100101 Firefox/51.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox",
+          "version_major": 51,
+          "version": "51.0"
+        },
+        "os": {
+          "name": "Mac os X",
+          "version_major": 10,
+          "version": "10.11"
+        },
+        "device": {
+          "name": "Mac",
+          "brand": "Apple",
+          "model": "Mac"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (X11; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox",
+          "version_major": 50,
+          "version": "50.0"
+        },
+        "os": {
+          "name": "Linux",
+          "version_major": null,
+          "version": null
+        },
+        "device": {
+          "name": "Other",
+          "brand": null,
+          "model": null
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 5.1; WOW64; Trident/6.0)",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "IE",
+          "version_major": 10,
+          "version": "10.0"
+        },
+        "os": {
+          "name": "Windows",
+          "version_major": "XP",
+          "version": "XP"
+        },
+        "device": {
+          "name": "Other",
+          "brand": null,
+          "model": null
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0)",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "IE",
+          "version_major": 9,
+          "version": "9.0"
+        },
+        "os": {
+          "name": "Windows",
+          "version_major": 7,
+          "version": "7"
+        },
+        "device": {
+          "name": "Other",
+          "brand": null,
+          "model": null
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:51.0) Gecko/20100101 Firefox/51.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox",
+          "version_major": 51,
+          "version": "51.0"
+        },
+        "os": {
+          "name": "Ubuntu",
+          "version_major": null,
+          "version": null
+        },
+        "device": {
+          "name": "Other",
+          "brand": null,
+          "model": null
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2655.82 Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome",
+          "version_major": 49,
+          "version": "49.0.2655"
+        },
+        "os": {
+          "name": "Windows",
+          "version_major": "XP",
+          "version": "XP"
+        },
+        "device": {
+          "name": "Other",
+          "brand": null,
+          "model": null
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (X11; Linux i686 on x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2716.95 Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome",
+          "version_major": 51,
+          "version": "51.0.2716"
+        },
+        "os": {
+          "name": "Linux",
+          "version_major": null,
+          "version": null
+        },
+        "device": {
+          "name": "Other",
+          "brand": null,
+          "model": null
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac os X 10_8_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2985.80 Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome",
+          "version_major": 56,
+          "version": "56.0.2985"
+        },
+        "os": {
+          "name": "Mac os X",
+          "version_major": 10,
+          "version": "10.8.3"
+        },
+        "device": {
+          "name": "Mac",
+          "brand": "Apple",
+          "model": "Mac"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac os X 10.12; rv:48.0) Gecko/20100101 Firefox/48.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox",
+          "version_major": 48,
+          "version": "48.0"
+        },
+        "os": {
+          "name": "Mac os X",
+          "version_major": 10,
+          "version": "10.12"
+        },
+        "device": {
+          "name": "Mac",
+          "brand": "Apple",
+          "model": "Mac"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2844.63 Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome",
+          "version_major": 54,
+          "version": "54.0.2844"
+        },
+        "os": {
+          "name": "Windows",
+          "version_major": 8,
+          "version": "8.1"
+        },
+        "device": {
+          "name": "Other",
+          "brand": null,
+          "model": null
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (X11; Linux i686 on x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2783.2 Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome",
+          "version_major": 52,
+          "version": "52.0.2783"
+        },
+        "os": {
+          "name": "Linux",
+          "version_major": null,
+          "version": null
+        },
+        "device": {
+          "name": "Other",
+          "brand": null,
+          "model": null
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac os X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2948.97 Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome",
+          "version_major": 56,
+          "version": "56.0.2948"
+        },
+        "os": {
+          "name": "Mac os X",
+          "version_major": 10,
+          "version": "10.8.2"
+        },
+        "device": {
+          "name": "Mac",
+          "brand": "Apple",
+          "model": "Mac"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac os X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2652.0 Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome",
+          "version_major": 49,
+          "version": "49.0.2652"
+        },
+        "os": {
+          "name": "Mac os X",
+          "version_major": 10,
+          "version": "10.9.4"
+        },
+        "device": {
+          "name": "Mac",
+          "brand": "Apple",
+          "model": "Mac"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (X11; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox",
+          "version_major": 45,
+          "version": "45.0"
+        },
+        "os": {
+          "name": "Linux",
+          "version_major": null,
+          "version": null
+        },
+        "device": {
+          "name": "Other",
+          "brand": null,
+          "model": null
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "IE",
+          "version_major": 10,
+          "version": "10.0"
+        },
+        "os": {
+          "name": "Windows",
+          "version_major": 7,
+          "version": "7"
+        },
+        "device": {
+          "name": "Other",
+          "brand": null,
+          "model": null
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:50.0) Gecko/20100101 Firefox/50.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox",
+          "version_major": 50,
+          "version": "50.0"
+        },
+        "os": {
+          "name": "Windows",
+          "version_major": 10,
+          "version": "10"
+        },
+        "device": {
+          "name": "Other",
+          "brand": null,
+          "model": null
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Windows NT 6.3; rv:45.0) Gecko/20100101 Firefox/45.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox",
+          "version_major": 45,
+          "version": "45.0"
+        },
+        "os": {
+          "name": "Windows",
+          "version_major": 8,
+          "version": "8.1"
+        },
+        "device": {
+          "name": "Other",
+          "brand": null,
+          "model": null
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac os X 10.8; rv:46.0) Gecko/20100101 Firefox/46.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox",
+          "version_major": 46,
+          "version": "46.0"
+        },
+        "os": {
+          "name": "Mac os X",
+          "version_major": 10,
+          "version": "10.8"
+        },
+        "device": {
+          "name": "Mac",
+          "brand": "Apple",
+          "model": "Mac"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac os X 10.12; rv:45.0) Gecko/20100101 Firefox/45.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox",
+          "version_major": 45,
+          "version": "45.0"
+        },
+        "os": {
+          "name": "Mac os X",
+          "version_major": 10,
+          "version": "10.12"
+        },
+        "device": {
+          "name": "Mac",
+          "brand": "Apple",
+          "model": "Mac"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac os X 10_8_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2741.4 Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome",
+          "version_major": 51,
+          "version": "51.0.2741"
+        },
+        "os": {
+          "name": "Mac os X",
+          "version_major": 10,
+          "version": "10.8.0"
+        },
+        "device": {
+          "name": "Mac",
+          "brand": "Apple",
+          "model": "Mac"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2942.19 Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome",
+          "version_major": 56,
+          "version": "56.0.2942"
+        },
+        "os": {
+          "name": "Linux",
+          "version_major": null,
+          "version": null
+        },
+        "device": {
+          "name": "Other",
+          "brand": null,
+          "model": null
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Windows NT 5.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2744.92 Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome",
+          "version_major": 52,
+          "version": "52.0.2744"
+        },
+        "os": {
+          "name": "Windows",
+          "version_major": "XP",
+          "version": "XP"
+        },
+        "device": {
+          "name": "Other",
+          "brand": null,
+          "model": null
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac os X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2922.13 Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome",
+          "version_major": 55,
+          "version": "55.0.2922"
+        },
+        "os": {
+          "name": "Mac os X",
+          "version_major": 10,
+          "version": "10.10.2"
+        },
+        "device": {
+          "name": "Mac",
+          "brand": "Apple",
+          "model": "Mac"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (X11; Linux i686; rv:48.0) Gecko/20100101 Firefox/48.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox",
+          "version_major": 48,
+          "version": "48.0"
+        },
+        "os": {
+          "name": "Linux",
+          "version_major": null,
+          "version": null
+        },
+        "device": {
+          "name": "Other",
+          "brand": null,
+          "model": null
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (X11; Linux i686; rv:50.0) Gecko/20100101 Firefox/50.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox",
+          "version_major": 50,
+          "version": "50.0"
+        },
+        "os": {
+          "name": "Linux",
+          "version_major": null,
+          "version": null
+        },
+        "device": {
+          "name": "Other",
+          "brand": null,
+          "model": null
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 10.0; Win64; x64; Trident/6.0)",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "IE",
+          "version_major": 10,
+          "version": "10.0"
+        },
+        "os": {
+          "name": "Windows",
+          "version_major": 10,
+          "version": "10"
+        },
+        "device": {
+          "name": "Other",
+          "brand": null,
+          "model": null
+        }
+      }
+    ],
+    "mobile": [
+      {
+        "ua": "Mozilla/5.0 (Linux; Android 5.0.2; Lenovo S856 Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2784.56 Mobile Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome Mobile",
+          "version_major": 52,
+          "version": "52.0.2784"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 5,
+          "version": "5.0.2"
+        },
+        "device": {
+          "name": "Lenovo S856",
+          "brand": "Lenovo",
+          "model": "S856"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Android 6.0.1; Mobile; rv:47.0) Gecko/47.0 Firefox/47.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox Mobile",
+          "version_major": 47,
+          "version": "47.0"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 6,
+          "version": "6.0.1"
+        },
+        "device": {
+          "name": "Generic Smartphone",
+          "brand": "Generic",
+          "model": "Smartphone"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Linux; Android 5.0.1; Z220 Build/LRX21M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2770.55 Mobile Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome Mobile",
+          "version_major": 52,
+          "version": "52.0.2770"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 5,
+          "version": "5.0.1"
+        },
+        "device": {
+          "name": "Z220",
+          "brand": "Generic_Android",
+          "model": "Z220"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Android 4.4.2; Mobile; rv:48.0) Gecko/48.0 Firefox/48.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox Mobile",
+          "version_major": 48,
+          "version": "48.0"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 4,
+          "version": "4.4.2"
+        },
+        "device": {
+          "name": "Generic Smartphone",
+          "brand": "Generic",
+          "model": "Smartphone"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Linux; Android 4.4.3; Nokia_XL Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2836.6 Mobile Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome Mobile",
+          "version_major": 53,
+          "version": "53.0.2836"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 4,
+          "version": "4.4.3"
+        },
+        "device": {
+          "name": "Nokia_XL",
+          "brand": "Nokia",
+          "model": "XL"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Android 4.4.4; Mobile; rv:45.0) Gecko/45.0 Firefox/45.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox Mobile",
+          "version_major": 45,
+          "version": "45.0"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 4,
+          "version": "4.4.4"
+        },
+        "device": {
+          "name": "Generic Smartphone",
+          "brand": "Generic",
+          "model": "Smartphone"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Linux; Android 5.0.1; HUAWEI TIT-U02 Build/HUAWEITIT-U02) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2776.18 Mobile Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome Mobile",
+          "version_major": 52,
+          "version": "52.0.2776"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 5,
+          "version": "5.0.1"
+        },
+        "device": {
+          "name": "HUAWEI TIT-U02",
+          "brand": "Huawei",
+          "model": "TIT-U02"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Android 4.4.3; Mobile; rv:45.0) Gecko/45.0 Firefox/45.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox Mobile",
+          "version_major": 45,
+          "version": "45.0"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 4,
+          "version": "4.4.3"
+        },
+        "device": {
+          "name": "Generic Smartphone",
+          "brand": "Generic",
+          "model": "Smartphone"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Android 6.0; Mobile; rv:47.0) Gecko/47.0 Firefox/47.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox Mobile",
+          "version_major": 47,
+          "version": "47.0"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 6,
+          "version": "6.0"
+        },
+        "device": {
+          "name": "Generic Smartphone",
+          "brand": "Generic",
+          "model": "Smartphone"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Linux; Android 4.4.3; Lenovo A916 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2859.76 Mobile Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome Mobile",
+          "version_major": 54,
+          "version": "54.0.2859"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 4,
+          "version": "4.4.3"
+        },
+        "device": {
+          "name": "Lenovo A916",
+          "brand": "Lenovo",
+          "model": "A916"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Android 5.0.1; Mobile; rv:51.0) Gecko/51.0 Firefox/51.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox Mobile",
+          "version_major": 51,
+          "version": "51.0"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 5,
+          "version": "5.0.1"
+        },
+        "device": {
+          "name": "Generic Smartphone",
+          "brand": "Generic",
+          "model": "Smartphone"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Android 4.4.4; Mobile; rv:46.0) Gecko/46.0 Firefox/46.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox Mobile",
+          "version_major": 46,
+          "version": "46.0"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 4,
+          "version": "4.4.4"
+        },
+        "device": {
+          "name": "Generic Smartphone",
+          "brand": "Generic",
+          "model": "Smartphone"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Android 4.4.3; Mobile; rv:49.0) Gecko/49.0 Firefox/49.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox Mobile",
+          "version_major": 49,
+          "version": "49.0"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 4,
+          "version": "4.4.3"
+        },
+        "device": {
+          "name": "Generic Smartphone",
+          "brand": "Generic",
+          "model": "Smartphone"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Android 5.0; Mobile; rv:45.0) Gecko/45.0 Firefox/45.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox Mobile",
+          "version_major": 45,
+          "version": "45.0"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 5,
+          "version": "5.0"
+        },
+        "device": {
+          "name": "Generic Smartphone",
+          "brand": "Generic",
+          "model": "Smartphone"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Android 6.0.1; Mobile; rv:51.0) Gecko/51.0 Firefox/51.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox Mobile",
+          "version_major": 51,
+          "version": "51.0"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 6,
+          "version": "6.0.1"
+        },
+        "device": {
+          "name": "Generic Smartphone",
+          "brand": "Generic",
+          "model": "Smartphone"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Linux; Android 5.0.2; E5533 Build/29.1.B.0.101) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2952.93 Mobile Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome Mobile",
+          "version_major": 56,
+          "version": "56.0.2952"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 5,
+          "version": "5.0.2"
+        },
+        "device": {
+          "name": "E5533",
+          "brand": "SonyEricsson",
+          "model": "E5533"
+        }
+      }
+    ],
+    "tablet": [
+      {
+        "ua": "Mozilla/5.0 (Android 6.0; Mobile; rv:47.0) Gecko/47.0 Firefox/47.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox Mobile",
+          "version_major": 47,
+          "version": "47.0"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 6,
+          "version": "6.0"
+        },
+        "device": {
+          "name": "Generic Smartphone",
+          "brand": "Generic",
+          "model": "Smartphone"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Linux; Android 4.4.4; E6553 Build/32.1.A.1.185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2858.54 Mobile Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome Mobile",
+          "version_major": 54,
+          "version": "54.0.2858"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 4,
+          "version": "4.4.4"
+        },
+        "device": {
+          "name": "E6553",
+          "brand": "SonyEricsson",
+          "model": "E6553"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Linux; Android 4.4.3; SM-A310F Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2908.98 Mobile Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome Mobile",
+          "version_major": 55,
+          "version": "55.0.2908"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 4,
+          "version": "4.4.3"
+        },
+        "device": {
+          "name": "Samsung SM-A310F",
+          "brand": "Samsung",
+          "model": "SM-A310F"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; m3 note Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2805.37 Mobile Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome Mobile",
+          "version_major": 53,
+          "version": "53.0.2805"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 6,
+          "version": "6.0.1"
+        },
+        "device": {
+          "name": "m3 note",
+          "brand": "Generic_Android",
+          "model": "m3 note"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Android 4.4.4; Mobile; rv:45.0) Gecko/45.0 Firefox/45.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox Mobile",
+          "version_major": 45,
+          "version": "45.0"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 4,
+          "version": "4.4.4"
+        },
+        "device": {
+          "name": "Generic Smartphone",
+          "brand": "Generic",
+          "model": "Smartphone"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Linux; Android 5.1; Philips W6610 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2879.31 Mobile Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome Mobile",
+          "version_major": 54,
+          "version": "54.0.2879"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 5,
+          "version": "5.1"
+        },
+        "device": {
+          "name": "Philips W6610",
+          "brand": "Philips",
+          "model": "W6610"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Linux; Android 5.0.1; SM-G530FZ Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2783.95 Mobile Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome Mobile",
+          "version_major": 52,
+          "version": "52.0.2783"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 5,
+          "version": "5.0.1"
+        },
+        "device": {
+          "name": "Samsung SM-G530FZ",
+          "brand": "Samsung",
+          "model": "SM-G530FZ"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Linux; Android 4.4.4; GT-I9301I Build/LMY48Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2687.94 Mobile Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome Mobile",
+          "version_major": 50,
+          "version": "50.0.2687"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 4,
+          "version": "4.4.4"
+        },
+        "device": {
+          "name": "Samsung GT-I9301I",
+          "brand": "Samsung",
+          "model": "GT-I9301I"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Android 5.1.1; Mobile; rv:46.0) Gecko/46.0 Firefox/46.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox Mobile",
+          "version_major": 46,
+          "version": "46.0"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 5,
+          "version": "5.1.1"
+        },
+        "device": {
+          "name": "Generic Smartphone",
+          "brand": "Generic",
+          "model": "Smartphone"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Linux; Android 4.4.1; HTC Desire EYE Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2729.45 Mobile Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome Mobile",
+          "version_major": 51,
+          "version": "51.0.2729"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 4,
+          "version": "4.4.1"
+        },
+        "device": {
+          "name": "HTC Desire EYE",
+          "brand": "HTC",
+          "model": "Desire EYE"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Android 4.4.1; Mobile; rv:47.0) Gecko/47.0 Firefox/47.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox Mobile",
+          "version_major": 47,
+          "version": "47.0"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 4,
+          "version": "4.4.1"
+        },
+        "device": {
+          "name": "Generic Smartphone",
+          "brand": "Generic",
+          "model": "Smartphone"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Linux; Android 6.0.1; Micromax AQ5001 Build/LRX21M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2681.28 Mobile Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome Mobile",
+          "version_major": 50,
+          "version": "50.0.2681"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 6,
+          "version": "6.0.1"
+        },
+        "device": {
+          "name": "Micromax AQ5001",
+          "brand": "Generic_Android",
+          "model": "Micromax AQ5001"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Linux; Android 5.0.2; SM-G935F Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2688.5 Mobile Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome Mobile",
+          "version_major": 50,
+          "version": "50.0.2688"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 5,
+          "version": "5.0.2"
+        },
+        "device": {
+          "name": "Samsung SM-G935F",
+          "brand": "Samsung",
+          "model": "SM-G935F"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Android 4.4.2; Mobile; rv:51.0) Gecko/51.0 Firefox/51.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox Mobile",
+          "version_major": 51,
+          "version": "51.0"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 4,
+          "version": "4.4.2"
+        },
+        "device": {
+          "name": "Generic Smartphone",
+          "brand": "Generic",
+          "model": "Smartphone"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Android 5.1; Mobile; rv:46.0) Gecko/46.0 Firefox/46.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox Mobile",
+          "version_major": 46,
+          "version": "46.0"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 5,
+          "version": "5.1"
+        },
+        "device": {
+          "name": "Generic Smartphone",
+          "brand": "Generic",
+          "model": "Smartphone"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Android 4.4; Mobile; rv:51.0) Gecko/51.0 Firefox/51.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox Mobile",
+          "version_major": 51,
+          "version": "51.0"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 4,
+          "version": "4.4"
+        },
+        "device": {
+          "name": "Generic Smartphone",
+          "brand": "Generic",
+          "model": "Smartphone"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Linux; Android 4.4.1; E2303 Build/26.1.A.3.111) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2980.52 Mobile Safari/537.36",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Chrome Mobile",
+          "version_major": 56,
+          "version": "56.0.2980"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 4,
+          "version": "4.4.1"
+        },
+        "device": {
+          "name": "E2303",
+          "brand": "SonyEricsson",
+          "model": "E2303"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Android 5.1.1; Mobile; rv:51.0) Gecko/51.0 Firefox/51.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox Mobile",
+          "version_major": 51,
+          "version": "51.0"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 5,
+          "version": "5.1.1"
+        },
+        "device": {
+          "name": "Generic Smartphone",
+          "brand": "Generic",
+          "model": "Smartphone"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Android 5.0.2; Mobile; rv:48.0) Gecko/48.0 Firefox/48.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox Mobile",
+          "version_major": 48,
+          "version": "48.0"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 5,
+          "version": "5.0.2"
+        },
+        "device": {
+          "name": "Generic Smartphone",
+          "brand": "Generic",
+          "model": "Smartphone"
+        }
+      },
+      {
+        "ua": "Mozilla/5.0 (Android 5.1.1; Mobile; rv:49.0) Gecko/49.0 Firefox/49.0",
+        "type": {
+          "mobile": false,
+          "tablet": false,
+          "touch_capable": false,
+          "pc": true,
+          "bot": false
+        },
+        "browser": {
+          "name": "Firefox Mobile",
+          "version_major": 49,
+          "version": "49.0"
+        },
+        "os": {
+          "name": "Android",
+          "version_major": 5,
+          "version": "5.1.1"
+        },
+        "device": {
+          "name": "Generic Smartphone",
+          "brand": "Generic",
+          "model": "Smartphone"
+        }
+      }
+    ]
+  }
+}
