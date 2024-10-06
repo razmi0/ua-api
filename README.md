@@ -60,7 +60,7 @@ type Info {
       - **Type** : Number
       - **Default** : 1
       - **Return** : UserAgent[]
-      - **Example** : _/ua?length=5_
+      - **Example** : _/gen?length=5_
 
 - **GET** /parse (Parse User Agent from url query)
 
@@ -69,7 +69,7 @@ type Info {
       - **Location** : Query
       - **Type** : String
       - **Return** : UserAgent
-      - **Example** : _/ua?ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3_
+      - **Example** : _/parse?ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3_
 
 - **POST** /parse (Parse User Agent from body request)
 
