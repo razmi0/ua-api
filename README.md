@@ -32,7 +32,7 @@ type Device {
   name: string;
 }
 
-type Type {
+type DeviceInfo {
   bot: boolean;
   mobile: boolean;
   pc: boolean;
