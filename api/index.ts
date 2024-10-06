@@ -1,7 +1,8 @@
 import { Hono } from "hono";
+import { HTTPException } from "hono/http-exception";
 import { prettyJSON } from "hono/pretty-json";
 import { handle } from "hono/vercel";
-import { BASE_PATH, DEFAULT_LENGTH, VERSION } from "./const";
+import { BASE_PATH, DEFAULT_LENGTH, PARSER_ENDPOINT_ERR_MESSAGE_400, VERSION } from "./const";
 import raw from "./data/uas.json";
 import { generator } from "./generator";
 import { Uas } from "./types";
@@ -22,7 +23,13 @@ app.get("/gen", (c) => {
 });
 
 app.get("/parser", (c) => {
-  return c.json({ message: "coucou" });
+  const ua = c.req.query().ua;
+  if (!ua) {
+    throw new HTTPException(400, {
+      message: PARSER_ENDPOINT_ERR_MESSAGE_400,
+    });
+  }
+  return c.json({ message: "parser", ua });
 });
 
 export default handle(app);
