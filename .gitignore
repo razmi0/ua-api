@@ -9,9 +9,6 @@
 .idea/usage.statistics.xml
 .idea/shelf
 
-# data
-randomua.ts
-
 # deps
 node_modules/
 
