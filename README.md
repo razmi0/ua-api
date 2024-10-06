@@ -12,6 +12,7 @@ npm run start
 ## Response body data types
 
 ```typescript
+type UserAgent = {
   browser: Browser;
   device: Device;
   os: Browser;
@@ -38,7 +39,6 @@ type Info = {
   tablet: boolean;
   touch_capable: boolean;
 };
-
 ```
 
 ## Usage
