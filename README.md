@@ -4,7 +4,7 @@
 
 ## Installation
 
-```bash
+```sh
 npm install
 npm run start
 ```
